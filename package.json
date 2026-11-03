@@ -1,0 +1,14 @@
+{
+  "name": "gamevault-backend-starter",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Starter backend for GameVault storefront; demo mode only.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
